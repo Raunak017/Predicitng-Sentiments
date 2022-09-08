@@ -1,4 +1,4 @@
-# Predicitng-Sentiments
+# Predicting-Sentiments
 Performing Sentiment Analysis on open-source IMDB movie reviews dataset using different machine learning and deep learning algoritjhms.
 
 Dataset Link: http://ai.stanford.edu/~amaas/data/sentiment/
